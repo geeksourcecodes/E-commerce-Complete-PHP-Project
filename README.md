@@ -1,0 +1,2 @@
+# E-commerce-Complete-PHP-Project
+E-commerce means any commercial transaction done over the Internet.  In online marketing, a shopping cart is a facility that records items selected by a customer for purchase until the transaction is completed. E-commerce software on a web server allows visitors to an Internet site to select items for eventual purchase, analogous to the American English term "shopping cart." In British English, it is generally known as a shopping basket, almost exclusively shortened on websites to "basket."
